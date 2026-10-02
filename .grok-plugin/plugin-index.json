@@ -394,7 +394,6 @@
       }
     },
     "gumlet": {
-      "sha": "da14e9e31f05cb25c1e7ce605f1773b02c81e7cc",
       "version": "1.0.0",
       "components": {
         "mcpServers": [

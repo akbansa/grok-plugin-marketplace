@@ -191,10 +191,8 @@
       "description": "Manage Gumlet video workspaces, assets, live streams, and insights with Gumlet's hosted MCP server and OAuth.",
       "category": "video",
       "source": {
-        "source": "url",
-        "url": "https://github.com/gumlet/claude-gumlet-marketplace.git",
-        "sha": "da14e9e31f05cb25c1e7ce605f1773b02c81e7cc",
-        "path": "plugins/gumlet-plugin"
+        "type": "local",
+        "path": "./external_plugins/gumlet"
       },
       "homepage": "https://www.gumlet.com",
       "keywords": ["gumlet", "gumlet video", "gumlet live", "gumlet insights"],
