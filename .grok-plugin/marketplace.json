@@ -188,7 +188,7 @@
     },
     {
       "name": "gumlet",
-      "description": "Manage Gumlet video workspaces, assets, live streams, and insights with Gumlet's hosted MCP server and OAuth.",
+      "description": "Manage Gumlet video workspaces, assets, live streams, and insights with Gumlet's hosted MCP server and API key.",
       "category": "video",
       "source": {
         "type": "local",
