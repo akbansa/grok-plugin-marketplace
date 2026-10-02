@@ -393,6 +393,18 @@
         ]
       }
     },
+    "gumlet": {
+      "sha": "da14e9e31f05cb25c1e7ce605f1773b02c81e7cc",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "gumlet",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",

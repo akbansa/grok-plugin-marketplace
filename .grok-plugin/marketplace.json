@@ -187,6 +187,20 @@
       "domains": ["figma.com", "www.figma.com"]
     },
     {
+      "name": "gumlet",
+      "description": "Manage Gumlet video workspaces, assets, live streams, and insights with Gumlet's hosted MCP server and OAuth.",
+      "category": "video",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gumlet/claude-gumlet-marketplace.git",
+        "sha": "da14e9e31f05cb25c1e7ce605f1773b02c81e7cc",
+        "path": "plugins/gumlet-plugin"
+      },
+      "homepage": "https://www.gumlet.com",
+      "keywords": ["gumlet", "gumlet video", "gumlet live", "gumlet insights"],
+      "domains": ["gumlet.com", "docs.gumlet.com", "mcp.gumlet.com"]
+    },
+    {
       "name": "exa",
       "description": "Exa is the fastest and most accurate web search for AI. It searches the web in real time, reads relevant pages, and answers with up-to-date sources. Use it to find the latest code docs, news, company information, and much more. Use the exa-search skill for deep research, and sign up for Exa to get free credits.",
       "category": "development",
