@@ -7,5 +7,6 @@
     "url": "https://www.gumlet.com"
   },
   "homepage": "https://www.gumlet.com",
-  "keywords": ["gumlet", "gumlet video", "gumlet live", "gumlet insights"]
+  "keywords": ["gumlet", "gumlet video", "gumlet live", "gumlet insights"],
+  "logo": "assets/logo.svg"
 }
